@@ -1,4 +1,4 @@
-# banl_loan_analysis
+# bank_loan_analysis
 
 # Bank Loan Analysis (Power BI)
 
